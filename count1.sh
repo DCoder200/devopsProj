@@ -1,1 +1,1 @@
-echo "1(ONE)"
+echo "ONE(1)" 
