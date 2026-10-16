@@ -1,1 +1,1 @@
-echo 2
+echo "TWO(2)"
